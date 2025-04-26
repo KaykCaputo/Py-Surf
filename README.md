@@ -63,15 +63,6 @@ python src/main.py
 
 ---
 
-## 💡 Roadmap
-
-- Full integration with native Chromium DevTools
-- Bookmark support
-- Browsing history
-- Light/Dark themes
-- Extension system
-
----
 
 ## 🤝 Contributing
 
