@@ -31,15 +31,6 @@
 
 ---
 
-## 🌱 Running
-
-```bash
-cd dist
-./main
-```
-
----
-
 ## 🛠️ Installation
 
 ### 1. Clone the repository
